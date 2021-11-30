@@ -1,0 +1,3 @@
+gcc addition_linked_list.c main.c linked_list.c  -> will compile and makes a "a.exe" file in windows or "a.out" in linux
+a.exe -> runs the program in windows
+./a.out -> runs the program in linux
