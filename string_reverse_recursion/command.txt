@@ -1,0 +1,4 @@
+gcc main.c reverseString.c
+a.exe -> for windows
+./a.exe -> git bash in windows
+./a.out -> for linux
