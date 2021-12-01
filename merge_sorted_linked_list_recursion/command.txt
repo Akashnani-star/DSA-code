@@ -1,0 +1,4 @@
+gcc linked_list.c main.c merge.c -> compiling
+
+./a.out -> running in linux
+a.exe -> running in windows
