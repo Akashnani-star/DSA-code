@@ -1,0 +1,4 @@
+gcc main.c linked_list.c reOrder.c  -> compiling 
+
+a.exe -> running in windows
+./a.out -> running in linux

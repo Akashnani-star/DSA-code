@@ -1,0 +1,10 @@
+python program also added
+
+python isPowewOfTwo.py
+
+----------------------------------------------
+
+gcc main.c isPowewOfTwo.c -> compiling
+
+a.exe -> Running in windows
+./a.out -> Running in linux
