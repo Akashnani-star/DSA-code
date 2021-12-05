@@ -1,0 +1,4 @@
+gcc main.c linked_list.c swapNodes.c -> compiling
+
+a.exe -> running in windows
+./a.out -> running in Linux
